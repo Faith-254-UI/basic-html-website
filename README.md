@@ -30,5 +30,5 @@ A simple multi-page HTML-only website built for the Frontend Developer project.
 ## How to View
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/Faith-254-UI/basic-html-website.git
+   git clone https://faith-254-ui.github.io/basic-html-website/
 )
